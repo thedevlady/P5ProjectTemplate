@@ -1,5 +1,4 @@
 
-var trex ,trex_running;
 function preload(){
   
 
